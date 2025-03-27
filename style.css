@@ -1,0 +1,32 @@
+
+body {
+  font-family: Georgia, serif;
+  color: #000;
+  background: #fff;
+  max-width: 700px;
+  margin: 40px auto;
+  line-height: 1.6;
+  padding: 0 20px;
+}
+header {
+  border-bottom: 1px solid #000;
+  margin-bottom: 30px;
+}
+nav {
+  margin-bottom: 30px;
+}
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+h1, h2 {
+  margin-top: 1.5em;
+}
+ul {
+  padding-left: 20px;
+}
